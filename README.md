@@ -25,30 +25,19 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/williamccondori/)
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
-<!-- PROJECT LOGO -->
-<br />
+<!-- PROJECT INFORMATION -->
 <p align="center">
-  <a href="https://github.com/williamccondori/william-condori-design">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">william-condori-design</h3>
-
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/williamccondori/william-condori-design">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/williamccondori/william-condori-design/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/williamccondori/william-condori-design/issues">Request Feature</a>
   </p>
 </p>
 
@@ -56,7 +45,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -167,7 +156,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/williamccondori/william-condori-design](https://github.com/williamccondori/william-condori-design)
 
 
 
@@ -184,15 +173,15 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/williamccondori/william-condori-design.svg?style=for-the-badge
+[contributors-url]: https://github.com/williamccondori/william-condori-design/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/williamccondori/william-condori-design.svg?style=for-the-badge
+[forks-url]: https://github.com/williamccondori/william-condori-design/network/members
+[stars-shield]: https://img.shields.io/github/stars/williamccondori/william-condori-design.svg?style=for-the-badge
+[stars-url]: https://github.com/williamccondori/william-condori-design/stargazers
+[issues-shield]: https://img.shields.io/github/issues/williamccondori/william-condori-design.svg?style=for-the-badge
+[issues-url]: https://github.com/williamccondori/william-condori-design/issues
+[license-shield]: https://img.shields.io/github/license/williamccondori/william-condori-design.svg?style=for-the-badge
+[license-url]: https://github.com/williamccondori/william-condori-design/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://www.linkedin.com/in/williamccondori
